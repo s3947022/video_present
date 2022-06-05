@@ -63,17 +63,7 @@ button:hover {
 
 
 /* BODY and IMAGE */
-.profiles {
-  font-family: 'Raleway', 'sans-serif';
-  column-count: 4;
-  color: #ededed;
-  font-size: 16px;
-  text-align: left;
-  padding-left: 20px;
-  filter: brightness(900);
-  z-index: 0;
-  padding-top: 80px;
-}
+
 
 .buttonimg {
   z-index: 0;
@@ -87,30 +77,4 @@ h1  {
   font-family: 'Raleway', 'sans-serif';
   padding-left: 25px;
   z-index: 1
-}
-
-b  {
-  font-family: 'Raleway', 'sans-serif';
-  column-count: 4;
-  word-spacing: 20cm;
-  color: #ededed;
-  font-size: 32px;
-  text-align: left;
-  margin-left: 7px;
-  z-index: 1
-}
-
-img {
-  width: 360px;
-  height: 640px;
-  padding-left: 10px;
-  opacity: 30%;
-  z-index: 0;
-  columns: 300px 4;
-  padding-right: 200px;
-}
-img:hover {
-  opacity: 70%;
-  z-index: 0;
-
 }
